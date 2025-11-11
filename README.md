@@ -29,7 +29,7 @@ Tujuan utama:
 
 ### Struktur Umum
 
-![[Gambar_1.png]](images/Gambar_1.png)
+![[Gambar_1.png]](Gambar_1.png)
 
 Setiap router divisi terhubung ke **switch dan PC masing-masing** sebagai LAN lokal.
 
